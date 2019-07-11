@@ -1,4 +1,4 @@
-package DataStructure;
+package LinearStructures;
 
 /**
  * 一个节点包含节点内容及下一个节点的地址

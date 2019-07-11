@@ -1,4 +1,4 @@
-package DataStructure;
+package LinearStructures;
 
 import java.util.Arrays;
 
