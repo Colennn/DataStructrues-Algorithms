@@ -1,2 +1,2 @@
-# Study-Notes-on-Data-Structrues
+# Data Structrues
 数据结构学习笔记（自用）
