@@ -10,7 +10,7 @@ import java.util.Arrays;
  * 4.get()取出指定位置的元素
  * 5.insert()插入一个元素到指定位置
  * 6.set()替换指定位置的元素
- * 7.search线性查找
+ * 7.search()线性查找
  * 8.binarySearch()二分查找法
  * 9.isEmpty()判断是否为空
  * 10.show()打印所有元素到控制台
